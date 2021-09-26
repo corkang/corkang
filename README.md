@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeob-yi)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yeob-yi/yeob-yi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

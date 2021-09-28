@@ -1,4 +1,4 @@
-### Hi there 👋
+## HGU Univ. computer science 
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeob-yi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--

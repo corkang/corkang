@@ -3,8 +3,8 @@
 CRA([Computer Research Association](https://github.com/cra16)) (21-1 ~ )
 
 ### 🏃🏻‍♂️ Projects 
-2021.06 ~ 2021.12 - [HisFinder](https://github.com/juyoungIt/HisFinder) (앱; flutter)\
-2021.10 ~ 2021.12 - [운동하자](https://github.com/ParkSangbeomm/LetsExercise) (앱; flutter)\
+2021.06 ~ 2021.12 - [HisFinder](https://github.com/juyoungIt/HisFinder) (앱; flutter+firebase)\
+2021.10 ~ 2021.12 - [운동하자](https://github.com/ParkSangbeomm/LetsExercise) (앱; flutter+firebase)\
 2021.12 ~ ing - [대학시간 리뉴얼](https://github.com/seokmin01/college-timetable-renewal/issues) (웹)
 
 ### 🏅 Achievements 

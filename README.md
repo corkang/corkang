@@ -1,5 +1,5 @@
-## 👨🏻‍💻 yeob-yi  |  개발꿈나무
-한동대학교 전산전자공학부 컴퓨터공학심화전공 (2021.02 ~ )\
+## 👨🏻‍💻 corkang  |  개발꿈나무
+한동대학교 전산전자공학부 컴퓨터공학심화전공 21학번 (2021.02 ~ )\
 CRA([Computer Research Association](https://github.com/cra16)) (21-1 ~ )
 
 ### 🏃🏻‍♂️ Projects 

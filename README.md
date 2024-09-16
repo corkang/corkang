@@ -1,6 +1,8 @@
 ## 👨🏻‍💻 corkang
-한동대학교 전산전자공학부 컴퓨터공학심화전공 21학번 (2021.02 ~ )\
-CRA([Computer Research Association](https://github.com/cra16)) (21-1 ~ )
+한동대학교 전산전자공학부 컴퓨터공학심화전공 21학번\
+\
+CRA([Computer Research Association](https://github.com/cra16)) (21-1 ~)\
+[PARD](https://github.com/Club-PARD) (4기 web)
 
 ### 🏃🏻‍♂️ Projects 
 2021.06 ~ 2021.12 - [HisFinder](https://github.com/juyoungIt/HisFinder) (앱; flutter+firebase)\

@@ -2,7 +2,8 @@
 한동대학교 전산전자공학부 컴퓨터공학심화전공 21학번
 
 ### 📍 Timeline
-2021 -1 ~ Present - CRA([Computer Research Association](https://github.com/cra16))\
+2021.03 ~ Present - CRA([Computer Research Association](https://github.com/cra16))\
+2022.09 ~ 2024.03 - Military Police, 188th Military Police Company\
 2024.12 ~ 2025.01 - [PARD](https://github.com/Club-PARD) Frontend Developer\
 2024.10 ~ Present - [ISEL](https://isel.handong.edu/) Undergraduate Research Intern
 
@@ -15,4 +16,4 @@
 ### 🏅 Achievements
 2021.12 - 교내 C 프로그래밍 경진대회 우수상\
 2021.12 - 대경권 공공데이터 활용 경진대회 우수상\
-2024.03 - Army CoA
+2024.03 - Army Certificate of Achievement, 19th Expeditionary Sustainment Command

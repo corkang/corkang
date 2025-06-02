@@ -16,4 +16,5 @@
 ### 🏅 Achievements
 2021.12 - 교내 C 프로그래밍 경진대회 우수상\
 2021.12 - 대경권 공공데이터 활용 경진대회 우수상\
-2024.03 - Army Certificate of Achievement, 19th Expeditionary Sustainment Command
+2024.03 - Army Certificate of Achievement, 19th Expeditionary Sustainment Command\
+2025.05 - 대경권 프로그래밍 경진대회 우수상

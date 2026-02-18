@@ -24,4 +24,5 @@
 2025.11 - 2025 교내 SW페스티벌 (SW전공 부문) 우수상: Timo\
 2025.11 - 캡스톤디자인1 인기상 (주제: Mitigating the Hallucination Problem in Code-Generation LLM)\
 2025.12 - TOPCIT 제 24회 정기평가 최우수상\
-2025.12 - Upstage AI Agent 해커톤 최우수상: "AI Agent를 활용한 Python 개발 환경 자동화"
+2025.12 - Upstage AI Agent 해커톤 최우수상: "AI Agent를 활용한 Python 개발 환경 자동화"\
+2026.02 - KCSE(Korea Conference on Software Engineering) 2026 우수논문상: A Survey on Leveraging code graphs for LLM-based Automated Program Repair

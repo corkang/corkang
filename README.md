@@ -2,17 +2,17 @@
 한동대학교 전산전자공학부 컴퓨터공학심화전공 21학번
 
 ### 📍 Timeline
-2021.03 ~ Present - CRA([Computer Research Association](https://github.com/cra16))\
+2021.03 ~ 2026.06 - CRA([Computer Research Association](https://github.com/cra16))\
 2022.09 ~ 2024.03 - Military Police, USAG Daegu 188th Military Police Company\
 2024.12 ~ 2025.01 - [PARD](https://github.com/Club-PARD) Frontend Developer\
-2024.10 ~ Present - [ISEL](https://isel.handong.edu/) Undergraduate Research Intern
+2024.10 ~ 2026.06 - [ISEL](https://isel.handong.edu/) Undergraduate Research Intern
 
 ### 🏃🏻‍♂️ Projects 
 2021.06 ~ 2021.12 - [HisFinder](https://github.com/juyoungIt/HisFinder) (app; flutter+firebase)\
 2021.10 ~ 2021.12 - [운동하자](https://github.com/ParkSangbeomm/LetsExercise) (app; flutter+firebase)\
 2024.12 ~ 2025.01 - [wecand](https://github.com/Club-PARD/GemLense-FE) (web; react)\
-2025.09 ~ Present - [Timo](https://github.com/corkang/TIMO) (web; react)\
-2025.12 ~ Present - [broken-filename-fixer](https://github.com/corkang/broken-filename-fixer) (chrome extension)
+2025.09 ~ 2026.06 - [Timo](https://github.com/corkang/TIMO) (web; react)\
+2025.12 ~ 2026.06 - [broken-filename-fixer](https://github.com/corkang/broken-filename-fixer) (chrome extension)
 
 
 ### 🏅 Achievements
